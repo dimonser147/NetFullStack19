@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFullStack19.Web", "NetFullStack19.Web\NetFullStack19.Web.csproj", "{10A9414B-75E8-4AC0-B253-E6239FC6ECE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFullStack19.Core", "NetFullStack19.Core\NetFullStack19.Core.csproj", "{08D08FD9-E1EE-4EB1-AE1A-B58045E58C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A9414B-75E8-4AC0-B253-E6239FC6ECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A9414B-75E8-4AC0-B253-E6239FC6ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A9414B-75E8-4AC0-B253-E6239FC6ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A9414B-75E8-4AC0-B253-E6239FC6ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D08FD9-E1EE-4EB1-AE1A-B58045E58C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D08FD9-E1EE-4EB1-AE1A-B58045E58C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D08FD9-E1EE-4EB1-AE1A-B58045E58C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D08FD9-E1EE-4EB1-AE1A-B58045E58C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7CC55A0-71FA-4A8A-A5B7-ED0A2C5FDB82}
+	EndGlobalSection
+EndGlobal
